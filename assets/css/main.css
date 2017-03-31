@@ -60,11 +60,12 @@ ul {
  overflow: hidden;
  background-color: #333;
  box-shadow: 4px 4px 4px black;
+ text-shadow: 2px 1px 2px black;
 }
   li {
   color: white;
   position: relative;
-  margin-left: 16%;
+  margin-left: 14%;
   list-style-type: none;
   display: inline;
 }
@@ -75,5 +76,18 @@ ol {
   margin-left: : 10px;
   text-align: center;
   display: inline-block;
-  box-shadow: ox-shadow: 3px 3px 3px black;
+
+}
+input {
+  box-shadow: 4px 4px 4px black;
+}
+footer {
+  text-decoration: none;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 4%;
+  background-color: #333;
+  padding-bottom: 5px;
 }
