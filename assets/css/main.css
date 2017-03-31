@@ -4,6 +4,7 @@
   height: 14%;
   display: block;
   margin: 0 auto;
+  margin-top: 10px;
   background: white;
   border-top-left-radius: 3px;
   border-radius: 106px 108px 112px;
@@ -58,6 +59,7 @@ ul {
  height: 40px;
  overflow: hidden;
  background-color: #333;
+ box-shadow: 4px 4px 4px black;
 }
   li {
   color: white;
@@ -72,5 +74,6 @@ a {
 ol {
   margin-left: : 10px;
   text-align: center;
-  display: inline-block;;
+  display: inline-block;
+  box-shadow: ox-shadow: 3px 3px 3px black;
 }
